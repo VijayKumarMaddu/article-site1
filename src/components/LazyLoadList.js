@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, useCallback } from "react";
+import { useState, useRef, useCallback } from "react";
 import ArticleCard from "./ArticleCard";
 
 export default function LazyLoadList({ articles }) {
